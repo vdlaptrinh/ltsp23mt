@@ -19,7 +19,7 @@ export default function Bai1() {
 
   const clockRef = useRef(null);
 
-  const API_KEY = '46fef74ea2a821c8e97e45a9efcacd45';
+  const API_KEY = '46fef74ea2a821c8e97e45a9efcacd4...';
 
   // 🔥 Lấy thời tiết
   const getWeather = (cityName) => {
